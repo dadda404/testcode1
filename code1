@@ -1,0 +1,6 @@
+# comment hello
+n = 5
+for i = 1 to n do
+  begin
+    write "this is some old pseudocode.  how about that?"
+  end
